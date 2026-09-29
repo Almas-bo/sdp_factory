@@ -10,7 +10,7 @@
 ## Инструкция по запуску
 1. Скомпилируйте проект из корневой директории:
    ```powershell
-   javac -d bin src/com/game/factorymethod/*.java src/com/game/abstractfactory/*.java src/com/game/main/*.java
+   javac -encoding UTF-8 -d bin src/com/game/factorymethod/*.java src/com/game/abstractfactory/*.java src/com/game/main/*.java
    ```
 2. Запустите приложение:
    ```powershell
